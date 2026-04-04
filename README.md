@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**tabooy747/tabooy747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Douglas Marsh
 
 🔐 CompTIA Security+ Certified  
